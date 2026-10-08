@@ -1,9 +1,20 @@
-# MyProjects_Les-Paroles
+# Les Paroles
 
-LES PAROLES
+A personal language-learning project that uses music and song lyrics as a way to practise vocabulary.
 
-Website created to learn some vocabulary of other languages through music and practice some PHP and Database.
+## Technologies
+PHP, JavaScript, AJAX and a database.
 
-I was able to improve my knowledge of AJAX to access the database via PHP and use the JSON file in JavaScript. In addition, I learned how to do content translation through language selection.
+## Project goals
+- Explore vocabulary in different languages through songs
+- Retrieve data from the backend and consume it in JavaScript
+- Practise language switching and content translation
 
-I still want to improve the layout a bit and put some more songs that I like.
+## Availability
+**Source code only:** this repository is not presented as a working public demo. A functioning deployment requires a PHP-capable host and a configured database.
+
+## Development notes
+The original project was an exercise in connecting a JavaScript interface to PHP and database-backed content. Before deploying it publicly, database configuration, credentials and data should be reviewed and managed through a secure environment configuration.
+
+## Future improvements
+Improve the layout and expand the collection of songs.
